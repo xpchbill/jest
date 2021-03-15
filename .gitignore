@@ -11,7 +11,7 @@
 
 /node_modules
 
-/packages/*/build/
+# /packages/*/build/
 /packages/*/build-es5/
 /packages/*/coverage/
 /packages/*/node_modules/
